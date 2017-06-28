@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927268500493",
+    "project_id": "roomandroidexample"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927268500493:android:11fd4b276f86a581",
+        "android_client_info": {
+          "package_name": "com.ahmadrosid.roomandroidexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927268500493-2p73lpkmr7n31vi9hfeqls4n6pn2q4jg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "927268500493-un2vljln49s92hvjamrqlmn9hsc6ldn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmadrosid.roomandroidexample",
+            "certificate_hash": "4a842d89beca5cb3444a15214cb18eec86142ac9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEt3NgDPntOYoh06Y2Fhu75lkAoXE3ZnI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
